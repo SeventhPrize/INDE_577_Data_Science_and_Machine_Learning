@@ -112,6 +112,12 @@ venv.bak/
 conda_venv
 .conda_venv
 conda_venv/
+conda_venv_inde577
+.conda_venv_inde577
+conda_venv_inde577/
+pip_venv_inde577
+.pip_venv_inde577
+pip_venv_inde577/
 
 # Spyder project settings
 .spyderproject

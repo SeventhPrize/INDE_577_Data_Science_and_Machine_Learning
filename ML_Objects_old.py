@@ -21,7 +21,7 @@ class Neuron:
         Given a preactivation scalar, returns the post-activation scalar output.
         INPUT
             preactivation; scalar-valued preactivation value
-        RETUNS
+        RETURNS
             post-activation value, equivalent to the neuron's prediction
         '''
         return 0
