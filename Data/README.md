@@ -1,4 +1,4 @@
-# Dataset introduction
+# Dataset Introduction
 
 ## LEGO dataset
 This project primarily uses the [LEGO dataset](https://github.com/SeventhPrize/INDE_577_Data_Science_and_Machine_Learning/blob/main/Data/Brickset-Most-Owned-Query-33-02042023.csv) obtained from [Brickset](https://brickset.com/sets/query-33). For each LEGO set that has been released (as of Feb 4, 2023), the dataset contains information about the LEGO set's theme, number of pieces, weight, width/height/depth, price, and value.
