@@ -1,5 +1,5 @@
 # Stroke Prediction
-As a challenge, we were given five days to make a machine learning model to predict occurrences of strokes within a [healthcare dataset](https://github.com/SeventhPrize/INDE_577_Data_Science_and_Machine_Learning/blob/main/Data/healthcare-dataset-stroke-data.csv). I collaborated with [Josh Yaffee](https://github.com/joshyaffee). Our original project is located on [Github](https://github.com/joshyaffee/healthcare_stroke_ML). I have copied the files here to consolidate all the semesters' work into one location.
+As a challenge, we were given five days to make a machine learning model to predict occurrences of strokes within a [healthcare dataset](https://github.com/SeventhPrize/INDE_577_Data_Science_and_Machine_Learning/blob/main/Data/healthcare-dataset-stroke-data.csv). I collaborated with [Josh Yaffee](https://github.com/joshyaffee). Our original project is located on [Github](https://github.com/joshyaffee/healthcare_stroke_ML). I have copied the files here to consolidate all the semester's work into one location.
 
 ## Problem Description
 Strokes are a serious medical condition that occur when the blood supply to the brain is disrupted, either by a blood clot or a ruptured blood vessel. Strokes can cause significant disability or even death, and early detection and prevention is critical for improving patient outcomes.
