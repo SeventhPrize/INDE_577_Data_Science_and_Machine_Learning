@@ -1,4 +1,4 @@
-# Machine learning and why it matters
+# Machine Learning & Why it Matters
 Machine learning is a branch of artificial intelligence that involves the development of algorithms and statistical models that enable computer systems to improve their performance on a specific task over time, without being explicitly programmed to do so. In other words, machine learning allows computers to learn from data and experience, and use that knowledge to make predictions or decisions on new data.
 
 Machine learning has become increasingly important in our day-to-day lives, driving a wide range of applications such as image and speech recognition, natural language processing, recommendation systems, and predictive analytics. For example, machine learning algorithms power virtual assistants like Siri and Alexa, personalized movie recommendations on Netflix, and fraud detection systems in financial institutions.
