@@ -5,7 +5,7 @@ Machine learning has become increasingly important in our day-to-day lives, driv
 
 The impact of machine learning is significant and far-reaching, transforming the way we work, live, and communicate. It has the potential to improve healthcare outcomes, optimize supply chains, automate mundane tasks, and enhance public safety, among other benefits. As such, it is critical for individuals and organizations to understand the basics of machine learning and its implications for society.
 
-This repository is a semester-long project for the graduate-level course INDE 577: Data Science and Machine Learning at Rice University taught by Dr. Randy Davila. We demonstrate from-scratch implementations of several machine learning models to show a few basic applications of machine learning.
+This repository is a semester-long project for the graduate-level course INDE 577: Data Science and Machine Learning at Rice University taught by Dr. Randy Davila. We demonstrate from-scratch implementations of several machine learning models.
 
 # Contents
 All models in this repository feature from-scratch Python implementation. The two exceptions are [EnsembleMethods.ipynb](https://github.com/SeventhPrize/INDE_577_Data_Science_and_Machine_Learning/blob/main/Supervised%20learning/Nonparametric%20models/EnsembleMethods.ipynb) and [StrokePredictionML.ipynb](https://github.com/SeventhPrize/INDE_577_Data_Science_and_Machine_Learning/blob/main/Supervised%20learning/Stroke%20prediction/StrokePredictionML.ipynb), which utilized packaged implementations from `sklearn` and `tensorflow`.
