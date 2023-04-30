@@ -1,4 +1,4 @@
-# Parametric models
+# Parametric Models
 Parametric models are a type of supervised machine learning model that assumes a specific functional relating the input and output variables. The model has a fixed number of parameters, which can be estimated from the data..
 
 Neural networks are a type of parametric model. Neural networks are represented by a network of interconnected nodes, where each node represents a mathematical operation that transforms the input data in some way. The parameters of the neural network are the weights and biases associated with each node, which determine how the node transforms the input data. During the training process, the model adjusts these parameters to minimize the difference between the predicted output and the actual output on the training data.

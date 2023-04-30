@@ -1,4 +1,4 @@
-# Supervised machine learning
+# Supervised Learning
 Supervised machine learning is a type of machine learning that involves training a model on labeled data, where the input data is paired with the corresponding output or response variable. The goal of supervised learning is to learn a mapping function from input variables to output variables, so that the model can predict the response variable of new, unseen input data.
 
 Supervised learning is useful in a variety of applications where the goal is to use data to make a prediction, such as image classification, speech recognition, and sentiment analysis. It is particularly powerful when the input-output relationship is complex or nonlinear, and the model needs to capture intricate patterns in the data to make accurate predictions.

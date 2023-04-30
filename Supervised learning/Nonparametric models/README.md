@@ -1,4 +1,4 @@
-# Nonparametric models
+# Nonparametric Models
 
 Nonparametric models are a type of supervised machine learning model that makes few assumptions about the underlying distribution of the data, and can be more flexible in modeling complex relationships between the input and output variables. Nonparametric models do not have a fixed number of parameters, and instead rely on the data to determine the complexity of the model.
 
